@@ -1,0 +1,10 @@
+{
+  "name": "prisma-supabase-diff-issue",
+  "private": true,
+  "dependencies": {
+    "@prisma/client": "^4.8.1"
+  },
+  "devDependencies": {
+    "prisma": "^4.8.1"
+  }
+}
